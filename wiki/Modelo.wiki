@@ -3,6 +3,7 @@
 == Modelo de Negocio del Sistema Bibliotecario Organizador ==
 
   # La idea principal del software: 
+* gh
   # Modelo de negocio empresarial:
 Se crea el software Sistema Bibliotecario Organizador (SBO), donde se administra toda la información relevante a una biblioteca pública.
 Se encargará de realizar mantenimiento para estudiantes ingresados y que usan la biblioteca, materias correspondientes a cada estudiante para realizar un cálculo correspondiente a su promedio ponderado, libros que forman parte vital de la biblioteca como tal, y la realización de los respectivos prestamos que se soliciten.
