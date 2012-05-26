@@ -1,4 +1,4 @@
-#Metodolgía utilizada en el proyecto.
+#summary One-sentence summary of this page.
 
 == Metodología de Desarrollo del Sistema Bibliotecario Organizador ==
 
