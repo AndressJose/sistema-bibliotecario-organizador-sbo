@@ -13,9 +13,6 @@
 
 
 
-<html>
-<body>
-
 <table border="1">
 <tr>
   <th>Lenguaje de programación</th>
@@ -38,6 +35,3 @@
   <td>22.21%</td>
 </tr>
 </table>
-
-</body>
-</html>
