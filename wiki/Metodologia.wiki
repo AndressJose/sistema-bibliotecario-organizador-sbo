@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Metodología utilizada en el proyecto.
 
 == Metodología de Desarrollo del Sistema Bibliotecario Organizador ==
 
