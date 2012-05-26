@@ -1,4 +1,4 @@
-#metodología utilizada en el proyecto.
+
 
 == Metodología de Desarrollo del Sistema Bibliotecario Organizador ==
 
