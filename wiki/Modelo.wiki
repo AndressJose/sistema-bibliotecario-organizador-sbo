@@ -23,5 +23,5 @@ sistemas ya implementados para realizar mantenimiento y prestamos en un entorno 
 Como principal objetivo de desarrollar este software es permitir por medio de una comunidad la obtención y mejora del presente proyecto, permitiendo que los usuarios que necesiten parte o total del código fuente del sistema lo pueda adquirir para mejorar y ampliar la producción de nuevas aplicaciones con licencia libre. 
 Con el foro que se brinda en varias comunidades, los usuarios podrán acceder a cualquier consulta que se desea y así incentivar el conocimiento de manera global.
 
-* bullet item
+
   # numbered list
