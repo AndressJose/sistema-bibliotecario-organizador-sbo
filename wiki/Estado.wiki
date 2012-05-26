@@ -1,13 +1,6 @@
-#summary One-sentence summary of this page.
+#summary Estado Actual del Proyecto.
 
-= Introduction =
-
-Add your content here.
+== Estado Actual en que se encuentra el Sistema Bibliotecario Organizador ==
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+El sistema su estado actual se encuentra en alpha release. Esta en pleno desarrollado, y presenta ciertas paginas aún sin elaborar toda la proramación necesaria.
