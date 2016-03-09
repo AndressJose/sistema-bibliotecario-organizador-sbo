@@ -1,0 +1,8 @@
+## Metodología de Desarrollo del Sistema Bibliotecario Organizador ##
+
+
+La metodología que se definió para el desarrollo del respectivo software, se espera como objetivos, que el sistema sea capaz de controlar todas las prestaciones que se pueda solicitar por parte de los estudiantes de un centro educativo que cuente con una biblioteca.
+
+La idea es llevar control de la cantidad de prestamos, asi como el momento en que se realice una respectiva devolución. Como finalidad el sistema contendrá tareas donde se pueda realizar mantenimiento de catalogo de libros, asi como ingresar la cantidad de estudiantes que van solicitando el servicio de prestaciones del centro educativo.
+
+En aspectos técnicos el sistema está desarrollado para que pueda soportar cualquier tipo de plataforma, asi respetando un principio de interoperabilidad y que los usuarios puedan realizar modificaciones ó mejoras al código fuente.

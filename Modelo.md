@@ -1,0 +1,19 @@
+## Modelo de Negocio del Sistema Bibliotecario Organizador ##
+
+  * La idea principal del software:
+    1. Se crea el software Sistema Bibliotecario Organizador (SBO), donde se administra toda la información relevante a una biblioteca pública.
+    1. Se encargará de realizar mantenimiento para estudiantes ingresados y que usan la biblioteca, materias correspondientes a cada estudiante para realizar un cálculo correspondiente a su promedio ponderado, libros que forman parte vital de la biblioteca como tal, y la realización de los respectivos prestamos que se soliciten.
+
+  * Modelo de negocio empresarial:
+    1. Asistencia técnica y preguntas solicitadas por medio de un foro.
+    1. Utilización del software en instituciones de educación pública   preferiblemente.
+
+  * Demanda:
+    1. Universidades públicas, bibliotecas municipales, colegios y escuelas.
+
+  * Competidores:
+    1. sistemas ya implementados para realizar mantenimiento y prestamos en un entorno de biblioteca de libros. Por ejemplo: sistema de control de prestamos brindado por el SINABI.
+
+  * Justificación de elegir el modelo de software libre como base para el negocio:
+    1. Como principal objetivo de desarrollar este software es permitir por medio de una comunidad la obtención y mejora del presente proyecto, permitiendo que los usuarios que necesiten parte o total del código fuente del sistema lo pueda adquirir para mejorar y ampliar la producción de nuevas aplicaciones con licencia libre.
+Con el foro que se brinda en varias comunidades, los usuarios podrán acceder a cualquier consulta que se desea y así incentivar el conocimiento de manera global.

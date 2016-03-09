@@ -1,0 +1,8 @@
+## Licencia Utilizada en el Sistema Bibliotecario Organizador ##
+
+Este sistema cuenta con una licencia GP(general public license) para garantizar a nuestro usuarios que el sistema siempre va ser libre y que contara con las 4 libertades del software libre:
+
+  * Uso
+  * Distribucion
+  * Modificacion
+  * Copia

@@ -1,0 +1,4 @@
+## Estado Actual en que se encuentra el Sistema Bibliotecario Organizador ##
+
+
+El sistema su estado actual se encuentra en alpha release. Esta en pleno desarrollado, y presenta ciertas paginas aún sin elaborar toda la proramación necesaria.

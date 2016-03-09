@@ -1,0 +1,35 @@
+## Radiografia SlocCount ##
+
+  * Inicio del proyecto: Sistema Bibliotecario Organizador inicio su desarrollo en el entorno universitario (Universidad Nacional de Costa Rica)
+  * Licencia: General Public License 3.0 (GPL 3.0)
+  * Líneas de código: 4530
+  * Estimación de coste: $ 131,991
+  * Estimación de tiempo de ejecución: 0.53 años (6.37 meses)
+  * Estimación de número medio de desarrolladores: 1.84
+  * Número aproximado de desarrolladores: 3
+  * Herramienta de ayuda al desarrollo: https://sourceforge.net/projects/tiendaonliness
+
+
+
+<table border='1'>
+<tr>
+<blockquote><th>Lenguaje de programación</th>
+<th>Líneas de código</th>
+<th>Porcentaje</th>
+</tr>
+<tr>
+<td>java</td>
+<td>2268</td>
+<td>50.07%</td>
+</tr>
+<tr>
+<td>jsp</td>
+<td>1256</td>
+<td>27.73%</td>
+</tr>
+<tr>
+<td>xml</td>
+<td>1006</td>
+<td>22.21%</td>
+</tr>
+</table>
